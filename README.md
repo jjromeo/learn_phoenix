@@ -1,8 +1,4 @@
 # LearnPhoenix
 
-To start your new Phoenix application:
-
-1. Install dependencies with `mix deps.get`
-2. Start Phoenix endpoint with `mix phoenix.server`
-
-Now you can visit `localhost:4000` from your browser.
+Having a go with learning Elixir and using it with the Phoenix framework, to
+have a go with funtional programming.
